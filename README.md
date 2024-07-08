@@ -32,13 +32,19 @@ useful when you dont actually need the total, but the separate rolls.
 ##################################################################
 			SUPER ROLLER v1.0
 ------------------------------------------------------------------
-	Die: 2 * d10     | Modifier: 10  | Breakdown: true
+	Die: 10 * d10     | Modifier: 0   | Breakdown: true
 ##################################################################
 
-Rolled: 2  		 Running total: 2
-Rolled: 3  		 Running total: 5
-Applying modifier 10
-
-Total: 15
+Rolled: 5  		 Running total: 5
+Rolled: 8  		 Running total: 13
+Rolled: 8  		 Running total: 21
+Rolled: 5  		 Running total: 26
+Rolled: 7  		 Running total: 33
+Rolled: 1  		 Running total: 34
+Rolled: 7  		 Running total: 41
+Rolled: 2  		 Running total: 43
+Rolled: 2  		 Running total: 45
+Rolled: 7  		 Running total: 52
+Total: 52
 
 ```
