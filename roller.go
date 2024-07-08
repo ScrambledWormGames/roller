@@ -40,7 +40,7 @@ func main() {
 	goodDice := []int{4, 6, 8, 10, 12, 20, 100}
 
 	// Use flags to get the pointer of the die and parse out
-	dSelect := flag.Int("d", 6, "Dice selection, out of: D4, D6, D8, D10, D12, D20 and D100")
+	dSelect := flag.Int("d", 20, "Dice selection, out of: D4, D6, D8, D10, D12, D20 and D100")
 	nSelect := flag.Int("n", 1, "The number of dice you want to roll")
 	mSelect := flag.Int("m", 0, "Any modifier you wish to add")
 	breakdown := flag.Bool("b", false, "Whether you want a breakdown of the dice rolls")
